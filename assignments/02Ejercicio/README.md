@@ -25,10 +25,12 @@ Escribe ahora una función main que pregunte al usuario el largo y ancho del rec
 <br>Ingresa el ancho: 5
 <br>Ingresa el largo: 2
 <br>Quiere calcular el área o el perímetro del rectángulo:
-<br>Ingresa el ancho: a
+<br>(a para área y p para perímetro)
+<br>op: a
 
 <br><b>Salida</b>
 <br>area: 10.0
+
 
 **Nota:** No te preocupes por esta parte del código `if __name__ == '__main__':` por el momento. No la vamos a necesitar para este programa, pero es una buena práctica incluirla y quedará más claro para que sirve en los siguientes ejercicios.
 
